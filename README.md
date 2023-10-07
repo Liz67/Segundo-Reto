@@ -1,5 +1,5 @@
 # Proyecto Gamer
-![image](https://github.com/Unity-Utng/proyecto_gamer/assets/8560750/c4996cd7-a6cf-41a0-a691-92668fb7a723)
 
 ## Videos  
-[Video 1](https://drive.google.com/file/d/1ZR4xilGhr6-qPjz3Z6bsOVFtB-l6ICfG/view?usp=sharing)
+[Video 1](https://www.loom.com/share/1e9b2b38996b427ab7ae60fbc119a531?sid=b0789c1d-d975-44b1-a739-b44e9d026fd9)
+[Video 2](https://www.loom.com/share/5d5b8b05e63b4d40908b14111e342bb6?sid=22331db7-8400-4b22-83ea-56619ba24ac9)
